@@ -1,0 +1,67 @@
+{
+	"id": "655840b4-c7da-452c-bd84-72a9b8d68d86",
+	"name": "QA",
+	"values": [
+		{
+			"key": "booking_name",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "booking_firstname",
+			"value": "Jim",
+			"enabled": true
+		},
+		{
+			"key": "booking_lastname",
+			"value": "Smith",
+			"enabled": true
+		},
+		{
+			"key": "booking_date",
+			"value": "2017-08-12",
+			"enabled": true
+		},
+		{
+			"key": "invalid_booking_id",
+			"value": "900",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "var1",
+			"value": 2938,
+			"enabled": true
+		},
+		{
+			"key": "var2",
+			"value": "lele",
+			"enabled": true
+		},
+		{
+			"key": "booking_id",
+			"value": null,
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "created_booking_id",
+			"value": null,
+			"enabled": true
+		},
+		{
+			"key": "auth_token",
+			"value": "13e7df5fcdb93af",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-01-14T07:25:48.269Z",
+	"_postman_exported_using": "Postman/6.6.1"
+}
